@@ -29,7 +29,7 @@ author:
   location         : "West Lafayette, IN, USA"
   employer         : "Purdue University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "akruskie@purdue.edu" 
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-8024-7429"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
