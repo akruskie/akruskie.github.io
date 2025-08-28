@@ -69,9 +69,10 @@ Graduate Courses
 
 Teaching Experience
 ======
-* Science of the Atmosphere (Fall 2021) Teaching Assistant
-* Fossil Fuels, Energy, and Society (Fall 2021) Teaching Assistant
-* Introduction to Analysis and Computing with Geoscience Data (Fall 2022) Teaching Assistant
+* Science of the Atmosphere (Fall 2021) _Teaching Assistant_
+* Fossil Fuels, Energy, and Society (Fall 2021) _Teaching Assistant_
+* Introduction to Analysis and Computing with Geoscience Data (Fall 2022) _Teaching Assistant_
+* Earth Through Time (Fall 2025) _Teaching Assistant, Lab Coordinator_
 
 Leadership Experience
 ======
