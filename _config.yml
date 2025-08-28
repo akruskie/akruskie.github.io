@@ -22,7 +22,7 @@ repository               : "akruskie/akruskie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Aaron Kruskie"
   pronouns         : "he/him"  
   bio              : "PhD Candidate in Atmospheric Science"
