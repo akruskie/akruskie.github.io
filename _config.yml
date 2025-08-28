@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Aaron Kruskie"
 title_separator          : "-"
 name                     : &name "Aaron Kruskie"
 description              : &description "personal description"
