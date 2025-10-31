@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-poleward-expansion-JGR
 excerpt: 'This paper explores the variable expansion rates of tropical cyclone environments in reanalysis and a suite of CMIP6 climate models'
-date: 2025
+date: 2025-10-31
 venue: 'JGR: Atmospheres (Under Review)'
 slidesurl: ''
 paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://essopenarchive.org/users/767230/articles/1306731-interbasin-analysis-of-the-poleward-expansion-of-tropical-cyclone-potential-intensity)'
