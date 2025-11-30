@@ -31,7 +31,7 @@ Conferences and Workshops
 * Kruskie, A. “Extending Tropical Cyclone Potential Intensity Over Land to Predict Heat Low Dynamics in West Africa”. American Meteorological Society 104th Annual Meeting. 2024. Baltimore, Maryland.   
 * Kruskie, A. “West African Heat Low Climatology and Connection to Dry Tropical Cyclones”. American Meteorological Society 36th Conference on Hurricanes and Tropical Meteorology. 2024. Long Beach, California.   
 * Kruskie, A. “Quantifying the north/south divide in poleward expansion of interbasin TC potential intensity”. American Geophysical Union Annual Meeting 2024. Washington, D.C.
-* PaleoCAMP 2025 alumn, Sierra Nevada Aquatic Research Laboratory, Mammoth Lakes, CA.
+* PaleoCAMP 2025 alumnus, Sierra Nevada Aquatic Research Laboratory, Mammoth Lakes, CA.
 
 Research Experience
 ======
@@ -43,6 +43,8 @@ Research Experience
 * Proposed a radiative-convective equilibrium framework for understanding factors controlling TC poleward expansion 
 * Exploring the role continents play in setting the expansion rate of TC environments via coupled atmosphere-ocean climate model experiments
 * Investigated TC environment distribution in a broad range of paleoclimate periods in both idealized and state-of-the-art climate models
+* Analyzed TC environment expansion in the high-resolution PaleoWeather iCESM1.3 experiments ranging from pre-Industrial to the Eocene
+* Contributed to development of the python package “tcvpigpiv”, used to calculate the tropical cyclone ventilated Potential Intensity (vPI) from gridded data
 
 
 **Michigan State University Observatory** (April 2019 - May 2021), _Research Assistant_
