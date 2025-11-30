@@ -11,3 +11,7 @@ Aquaplanet
 
 Rectangle continent
 <img src="/files/WBC-PI.gif" alt="anim1">
+
+Modern Earth continents
+<img src="/files/re-oro-PI.gif" alt="anim1">
+
