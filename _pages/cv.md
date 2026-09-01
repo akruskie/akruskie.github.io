@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph. D. in Atmospheric Science, Purdue University, Aug. 2021 - Spring 2026 (expected), Department of Earth, Atmospheric, and Planetary Sciences
+* Ph. D. in Atmospheric Science, Purdue University, Aug. 2021 - Spring 2026, Department of Earth, Atmospheric, and Planetary Sciences
 * B.S. in Astrophysics, Michigan State University, Aug. 2017 - May 2021, Department of Physics and Astronomy, Lyman Briggs College, Honors College
 
 Publications
 ======
-* Kruskie A., D. R. Chavas, and M. Huber. West African Heat Low Climatology and Comparison with Dry Tropical Cyclones. International Journal of Climatology. Under review.
-* Kruskie A. and D. R. Chavas. Interbasin Analysis of the Poleward Expansion of Tropical Cyclone Potential Intensity. JGR Atmospheres. Under Review.
+* Kruskie, A., & Chavas, D. R. (2026). Interbasin analysis of the poleward expansion of tropical cyclone potential intensity. Journal of Geophysical Research: Atmospheres, 131, e2025JD044599. https://doi.org/10.1029/2025JD044599
+* Kruskie, A., D. Chavas, and M. Huber. (2026). Are West African Heat-Lows Analogous to Dry Tropical Cyclones?. International Journal of Climatology 46, no. 8: e70379. https://doi.org/10.1002/joc.70379
 
 Awards
 ======
@@ -35,7 +35,7 @@ Conferences and Workshops
 
 Research Experience
 ======
-**Purdue University, Department of Earth, Atmospheric, and Planetary Sciences** (Aug. 2021 - Present), _Advisor: Dr. Daniel R. Chavas | Committee: Dr. Matthew Huber, Dr. Stephanie Olson, Dr. Chanh Kieu_
+**Purdue University, Department of Earth, Atmospheric, and Planetary Sciences** (Aug. 2021 - May 2026), _Advisor: Dr. Daniel R. Chavas | Committee: Dr. Matthew Huber, Dr. Stephanie Olson, Dr. Chanh Kieu_
 * Performed data analysis of dropsonde measurements of Hurricane Teddy outflow jet
 * Gained firsthand experience working with atmospheric reanalysis datasets and general circulation models such as the Community Earth System Model (CESM)
 * Analyzed the climatology and dynamics of West African heat lows in reanalysis datasets, and develop method of extending tropical cyclone potential intensity over land for predicting heat low intensity 
