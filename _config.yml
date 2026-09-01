@@ -25,11 +25,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Aaron Kruskie"
   pronouns         : "he/him"  
-  bio              : "PhD Candidate in Atmospheric Science"
-  location         : "West Lafayette, IN, USA"
-  employer         : "Purdue University"
+  bio              : "Postdoctoral Research Associate"
+  location         : "St. Louis, MO, USA"
+  employer         : "Washington University"
   uri              : # URL
-  email            : "akruskie@purdue.edu" 
+  email            : "aaron.k@wustl.edu" 
 
   # Academic websites
   academia         : # URL
